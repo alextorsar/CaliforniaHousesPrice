@@ -4,3 +4,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+ipykernel
+geopandas
+contextily
+shapely
